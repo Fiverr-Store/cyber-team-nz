@@ -1,0 +1,117 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("flaticonb583.ttf?97c38171aa28a29db6a75d48a3862158") format("truetype"), url("flaticonb583.woff?97c38171aa28a29db6a75d48a3862158") format("woff"), url("flaticonb583.woff2?97c38171aa28a29db6a75d48a3862158") format("woff2"), url("flaticonb583.eot?97c38171aa28a29db6a75d48a3862158#iefix") format("embedded-opentype"), url("flaticonb583.svg?97c38171aa28a29db6a75d48a3862158#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-pdf:before {
+  content: "";
+}
+
+.flaticon-clipboard:before {
+  content: "";
+}
+
+.flaticon-like:before {
+  content: "";
+}
+
+.flaticon-landing-page:before {
+  content: "";
+}
+
+.flaticon-web-design:before {
+  content: "";
+}
+
+.flaticon-loupe:before {
+  content: "";
+}
+
+.flaticon-secure-data:before {
+  content: "";
+}
+
+.flaticon-encrypted:before {
+  content: "";
+}
+
+.flaticon-padlock:before {
+  content: "";
+}
+
+.flaticon-web-development:before {
+  content: "";
+}
+
+.flaticon-cyber-security:before {
+  content: "";
+}
+
+.flaticon-brain:before {
+  content: "";
+}
+
+.flaticon-document:before {
+  content: "";
+}
+
+.flaticon-lock:before {
+  content: "";
+}
+
+.flaticon-phone:before {
+  content: "";
+}
+
+.flaticon-data-protection:before {
+  content: "";
+}
+
+.flaticon-badge:before {
+  content: "";
+}
+
+.flaticon-padlock-1:before {
+  content: "";
+}
+
+.flaticon-search:before {
+  content: "";
+}
+
+.flaticon-cloud-storage:before {
+  content: "";
+}
+
+.flaticon-rating:before {
+  content: "";
+}
+
+.flaticon-secure:before {
+  content: "";
+}
+
+.flaticon-anti-virus-shield:before {
+  content: "";
+}
+
+.flaticon-web-security:before {
+  content: "";
+}
+
+.flaticon-data-security:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
